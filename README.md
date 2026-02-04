@@ -41,6 +41,27 @@ The analysis follows a structured data-science workflow:
   - Evaluation using MAE and RMSE metrics
 
 ---
+## Visual Outputs
+
+### Spatial Hotspot Analysis – Violence and Sexual Offences
+The map below shows marker clustering and heatmap intensity for recorded Violence and Sexual Offences across the Cleveland A26 area.
+
+![Violence and Sexual Offences Heatmap](assets/heatmap_vso.png)
+
+---
+
+### Marker Clustering of Crime Incidents
+Marker clustering highlights areas with persistent concentrations of reported incidents.
+
+![Marker Cluster Map](assets/marker_cluster_vso.png)
+
+---
+
+### Monthly Crime Trend
+Monthly aggregated crime counts illustrate seasonality and temporal variation over the three-year period.
+
+![Monthly Crime Trend](assets/monthly_trend.png)
+
 
 ## Key Findings
 - Violence and Sexual Offences consistently represent one of the highest-volume crime categories
