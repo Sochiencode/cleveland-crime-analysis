@@ -1,6 +1,5 @@
 # cleveland-crime-analysis
 Temporal, spatial and forecasting analysis of Cleveland Police crime data (2023–2025)
-# Cleveland Crime Analysis (2023–2025)
 
 ## Overview
 This project analyses recorded crime data from the Cleveland A26 policing area between 2023 and 2025. The analysis combines exploratory data analysis, spatial hotspot mapping, and time-series forecasting to identify crime patterns and support intelligence-led policing insights.
